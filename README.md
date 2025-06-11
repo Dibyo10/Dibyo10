@@ -47,10 +47,10 @@
   <td align="center">
     <a href="https://github.com/Dibyo10/KrishnaBot">
       <img src="https://skillicons.dev/icons?i=python" width="32" /> <br>
-      <b>KrishnaBot</b>
+      <b>KrishnaSaarthi</b>
     </a>
     <br>
-    <sub>Conversational AI and automation 🤖</sub>
+    <sub>Guidance and support automation using RAG 🪄</sub>
   </td>
   <td align="center">
     <a href="https://github.com/Dibyo10/Freelance">
@@ -78,14 +78,7 @@
     <br>
     <sub>Mood detection & creative AI 🧠</sub>
   </td>
-  <td align="center">
-    <a href="https://github.com/Dibyo10/KrishnSaarthi">
-      <img src="https://skillicons.dev/icons?i=python" width="32" /> <br>
-      <b>KrishnSaarthi</b>
-    </a>
-    <br>
-    <sub>Guidance and support automation 🪄</sub>
-  </td>
+  
 </tr>
 </table>
 
