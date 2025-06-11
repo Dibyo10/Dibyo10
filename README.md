@@ -4,7 +4,7 @@
   <img src="https://avatars.githubusercontent.com/u/178864340?v=4" width="120" style="border-radius:50%;" alt="Dibyo10 Avatar"/>
 </p>
 
-<h1 align="center">Hi there, I'm <span style="color:#5271ff;">Dibyo10</span>! 👋</h1>
+<h1 align="center">Hi there, I'm <span style="color:#5271ff;">Dibyo Chakraborty</span>! 👋</h1>
 
 <p align="center">
   <b>🚀 Developer • 🛠️ Creator • 🌱 Lifelong Learner</b>
@@ -127,6 +127,7 @@
 
 - 🌐 **Let’s connect:**  
   <a href="https://github.com/Dibyo10"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/dibyo-chakraborty-2a7309317/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
 
 ---
 
