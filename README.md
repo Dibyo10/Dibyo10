@@ -86,6 +86,17 @@
     <br>
     <sub>Mood detection & creative AI 🧠</sub>
   </td>
+  <td align="center">
+    <a href="https://github.com/Dibyo10/Multithreading_Concurrency_Learning">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32" /> <br>
+      <b>Multithreading & Concurrency Learning</b>
+    </a>
+    <br>
+    <sub>
+      Hands-on multithreading & concurrency in Java ⚡<br>
+      <a href="https://github.com/Dibyo10/Multithreading_Concurrency_Learning">Explore code & notes</a>
+    </sub>
+  </td>
 </tr>
 </table>
 
