@@ -24,6 +24,7 @@
 
 - 💡 **Innovator** passionate about automation, messaging, and web apps
 - 🧠 **Languages:** Python, TypeScript, JavaScript, Java, HTML, PostgreSQL
+- 📦 **Extra Libraries:** Numpy, Pandas
 - 👨‍💻 **Currently working on:**  
   - Conversational bots 🤖  
   - Admin dashboards 📊  
@@ -107,6 +108,8 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,react,html,css,vercel,github,aws,postgres" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="32" height="32" alt="NumPy logo" style="vertical-align:middle; margin:4px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="32" height="32" alt="Pandas logo" style="vertical-align:middle; margin:4px;"/>
 </p>
 
 ---
