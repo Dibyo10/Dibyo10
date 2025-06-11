@@ -23,7 +23,7 @@
 ## 🏆 About Me
 
 - 💡 **Innovator** passionate about automation, messaging, and web apps
-- 🧠 **Languages:** Python, TypeScript, JavaScript, Java, HTML
+- 🧠 **Languages:** Python, TypeScript, JavaScript, Java, HTML, PostgreSQL
 - 👨‍💻 **Currently working on:**  
   - Conversational bots 🤖  
   - Admin dashboards 📊  
@@ -106,7 +106,7 @@
 ## 🧰 Tools & Tech
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,react,html,css,vercel,github,aws" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,react,html,css,vercel,github,aws,postgres" />
 </p>
 
 ---
