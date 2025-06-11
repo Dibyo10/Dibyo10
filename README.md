@@ -54,7 +54,7 @@
   </td>
   <td align="center">
     <a href="https://github.com/Dibyo10/Freelance">
-      <img src="https://skillicons.dev/icons?i=html" width="32" /> <br>
+      <img src="https://skillicons.dev/icons?i=python" width="32" /> <br>
       <b>Freelance</b>
     </a>
     <br>
@@ -112,5 +112,5 @@
 ---
 
 <p align="center">
-  <b>🌈 Thanks for stopping by! Happy Coding! 🚀</b>
+  <b>👀Thanks for stopping by! Happy Coding! 🚀</b>
 </p>
