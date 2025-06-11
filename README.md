@@ -23,11 +23,12 @@
 ## 🏆 About Me
 
 - 💡 **Innovator** passionate about automation, messaging, and web apps
-- 🧠 **Languages:** Python, TypeScript, JavaScript, HTML
+- 🧠 **Languages:** Python, TypeScript, JavaScript, Java, HTML
 - 👨‍💻 **Currently working on:**  
   - Conversational bots 🤖  
   - Admin dashboards 📊  
   - Freelance & SaaS platforms 🧑‍💼  
+  - Learning Multithreading and Concurrency in Java ☕  
 - 🗺️ **Dream:** Build tools that empower and connect people across the globe
 
 ---
@@ -105,7 +106,7 @@
 ## 🧰 Tools & Tech
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,html,css,vercel,github" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,react,html,css,vercel,github,aws" />
 </p>
 
 ---
