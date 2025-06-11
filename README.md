@@ -60,11 +60,19 @@
     <br>
     <sub>Freelancing web platform 🌐<br><a href="https://freelance-ashen.vercel.app">Live Demo</a></sub>
   </td>
+  <td align="center">
+    <a href="https://github.com/Dibyo10/empower-connect-lovable">
+      <img src="https://skillicons.dev/icons?i=react" width="32" /> <br>
+      <b>empower-connect-lovable</b>
+    </a>
+    <br>
+    <sub>Fundraising search frontend powered by Google Sheets 📈</sub>
+  </td>
 </tr>
 <tr>
   <td align="center">
     <a href="https://github.com/Dibyo10/EndTerm">
-      <img src="https://skillicons.dev/icons?i=javascript" width="32" /> <br>
+      <img src="https://skillicons.dev/icons?i=react" width="32" /> <br>
       <b>EndTerm</b>
     </a>
     <br>
@@ -78,7 +86,6 @@
     <br>
     <sub>Mood detection & creative AI 🧠</sub>
   </td>
-  
 </tr>
 </table>
 
@@ -87,7 +94,7 @@
 ## 🧰 Tools & Tech
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css,vercel,github" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,html,css,vercel,github" />
 </p>
 
 ---
@@ -112,5 +119,5 @@
 ---
 
 <p align="center">
-  <b>👀Thanks for stopping by! Happy Coding! 🚀</b>
+  <b>👀 Thanks for stopping by! Happy Coding! 🚀</b>
 </p>
