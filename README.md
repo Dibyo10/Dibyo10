@@ -1,4 +1,5 @@
 <!-- Profile README for Dibyo10 -->
+<!-- Last Updated: 2025-06-18 -->
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/178864340?v=4" width="120" style="border-radius:50%;" alt="Dibyo10 Avatar"/>
@@ -13,10 +14,18 @@
 ---
 
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;TypeScript+%F0%9F%90%A7+Python+%F0%9F%90%8D+Web+Dev+%F0%9F%94%A5;Building+Bots+%F0%9F%A6%84+Dashboards+%F0%9F%92%BB;Always+exploring+new+ideas!&center=true&width=500&height=40" alt="Welcome banner" />
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;TypeScript+🐧+Python+🐍+Web+Dev+🔥;Building+Bots+🦄+Dashboards+💻;Always+learning+new+things!" alt="Typing SVG" />
+  </a>
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dibyo10&style=flat-square&color=5271ff" alt="Profile views"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dibyo10&theme=nord&column=7&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies"/>
+</p>
 
 ---
 
@@ -112,6 +121,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="32" height="32" alt="Pandas logo" style="vertical-align:middle; margin:4px;"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dibyo10&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
 ---
 
 ## 📊 Quick Stats
@@ -121,19 +134,34 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dibyo10&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dibyo10&theme=tokyo-night&hide_border=true&height=300" alt="Contribution Graph"/>
+</p>
+
 ---
 
 ## 🔍 Explore More
 
 - 🗂️ **I have 21 repositories!**  
-  <a href="https://github.com/search?q=user%3ADibyo10&sort=updated&order=desc&type=repositories">See all my projects</a>.
+  <a href="https://github.com/search?q=user%3ADibyo10&sort=updated&order=desc&type=repositories">See all my projects</a>
 
-- 🌐 **Let’s connect:**  
+- 🌐 **Let's connect:**  
   <a href="https://github.com/Dibyo10"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/dibyo-chakraborty-2a7309317/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</p>
 
 ---
 
 <p align="center">
   <b>👀 Thanks for stopping by! Happy Coding! 🚀</b>
 </p>
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dibyo10/Dibyo10/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dibyo10/Dibyo10/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/output/github-contribution-grid-snake.svg">
+</picture>
