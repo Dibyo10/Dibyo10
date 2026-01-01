@@ -90,7 +90,7 @@ I care about correctness, trade-offs, and knowing *why* something works.
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55"/>
       <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/matplotlib-1.svg" width="55"/>
-      <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/seaborn-1.svg" width="155"/>
+      <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/seaborn-1.svg" width="55"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="55"/>
       </td>
   </tr>
