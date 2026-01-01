@@ -64,7 +64,6 @@ I care about correctness, trade-offs, and knowing *why* something works.
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="55"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="55"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="55"/>
-      <code>CI/CD</code>
     </td>
   </tr>
 
