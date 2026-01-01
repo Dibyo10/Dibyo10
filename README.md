@@ -1,125 +1,114 @@
-<!-- Profile README for Dibyo10 -->
-<!-- Last Updated: 2025-06-18 09:08:06 -->
+# Dibyo Chakraborty
 
-<div align="center">
-  <h1>Hi There! 👋</h1>
-  <img align="right" height="200" style="border-radius:50%;" src="https://avatars.githubusercontent.com/u/178864340?v=4" alt="Dibyo10"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=5271FF&center=true&vCenter=true&width=435&lines=Hi+There!+👋;I'm+Dibyo+Chakraborty!;Full+Stack+Developer;Building+Amazing+Things" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/dibyo-chakraborty-2a7309317/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-  </a>
-  <a href="https://github.com/Dibyo10" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
-  </a>
-</div>
-
-<h3 align="center">🚀 Developer • 🛠️ Creator • 🌱 Lifelong Learner</h3>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dibyo10&label=Profile%20views&color=5271ff&style=for-the-badge" alt="Profile views"/>
-</div>
+> Systems • Machine Learning • Backend  
+> First-principles engineering. Real systems. Minimal abstractions.
 
 ---
 
-## 💫 About Me
+## 👋 About Me
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+I’m **Dibyo**, a Computer Science undergrad focused on understanding **how systems behave under real constraints** — time, scale, failure, and correctness.
 
-- 💡 **Innovator** passionate about automation, messaging, and web apps
-- 🧠 **Languages:** Python, TypeScript, JavaScript, Java, HTML, PostgreSQL
-- 📦 **Extra Libraries:** Numpy, Pandas
-- 👨‍💻 **Currently working on:**  
-  - Conversational bots 🤖  
-  - Admin dashboards 📊  
-  - Freelance & SaaS platforms 🧑‍💼  
-  - Learning Multithreading and Concurrency in Java ☕  
-- 🗺️ **Dream:** Build tools that empower and connect people across the globe
+I’m most interested in problems where:
+- trade-offs actually matter
+- systems must remain debuggable over time
+- correctness is more important than speed of iteration
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dibyo10&theme=nord&column=7&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies"/>
-</div>
+My work sits at the intersection of:
+- machine learning (classical + modern)
+- backend and concurrent systems
+- LLM pipelines built with guardrails, not guesswork
 
-## 💻 Tech Stack
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,react,html,css,vercel,github,aws,postgres" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="32" height="32" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="32" height="32" alt="Pandas"/>
-</div>
+I treat AI tools as accelerators — not decision-makers.
 
-## 🚀 Featured Projects
+---
 
-<table>
-<tr>
-  <td align="center" width="25%">
-    <a href="https://github.com/Dibyo10/FRM1_messaging">
-      <img src="https://skillicons.dev/icons?i=typescript" width="32" /> <br>
-      <b>FRM1_messaging</b>
-    </a>
-    <br>
-    <sub>Real-time messaging with TypeScript 💬</sub>
-  </td>
-  <td align="center" width="25%">
-    <a href="https://github.com/Dibyo10/KrishnaBot">
-      <img src="https://skillicons.dev/icons?i=python" width="32" /> <br>
-      <b>KrishnaSaarthi</b>
-    </a>
-    <br>
-    <sub>Guidance and support automation using RAG 🪄</sub>
-  </td>
-  <td align="center" width="25%">
-    <a href="https://github.com/Dibyo10/Freelance">
-      <img src="https://skillicons.dev/icons?i=python" width="32" /> <br>
-      <b>Freelance</b>
-    </a>
-    <br>
-    <sub>Freelancing web platform 🌐<br><a href="https://freelance-ashen.vercel.app">Live Demo</a></sub>
-  </td>
-  <td align="center" width="25%">
-    <a href="https://github.com/Dibyo10/empower-connect-lovable">
-      <img src="https://skillicons.dev/icons?i=react" width="32" /> <br>
-      <b>empower-connect-lovable</b>
-    </a>
-    <br>
-    <sub>Fundraising search frontend 📈</sub>
-  </td>
-</tr>
-</table>
+## 🧠 Areas of Strength
 
-## 📊 GitHub Stats
+### Backend & Systems
+- Implemented **rate limiting algorithms** (Token Bucket, Leaky Bucket, Sliding Window) from scratch in Go
+- Built **concurrency-safe systems** using goroutines, mutexes, and worker pools
+- Designed time-based algorithms with lazy evaluation and clear invariants
+- REST APIs with strict validation, authentication, middleware, and clean routing
+- Practical understanding of failure modes, load behavior, and observability
 
-<div align="center">
+### Machine Learning (Classical + Foundations)
+- Linear algebra: eigenvalues/eigenvectors, SVD, PCA, Rayleigh quotient
+- Optimization: Gradient Descent, SGD, Momentum, Adam
+- Probabilistic models: Gaussian Mixture Models, Bayesian scoring
+- Recommender systems:
+  - content-based filtering
+  - collaborative filtering
+  - matrix factorization
+  - time-decay and trend-aware ranking
+- Dimensionality reduction:
+  - PCA (theory + implementation)
+  - t-SNE vs UMAP (trade-offs and scaling behavior)
+
+### Sequence Models & Deep Learning
+- Vanilla RNNs and **Backpropagation Through Time** from first principles
+- Clear understanding of vanishing/exploding gradients
+- Orthogonal initialization: benefits and limits
+- Able to map math directly to PyTorch implementations
+
+### LLM Systems & Applied AI
+- RAG pipelines with retrieval, reranking, and context control
+- SQL generation with schema validation and repair loops
+- Deterministic compute pipelines (LLM → code → sandbox → verified output)
+- Async summarization and memory compaction for long-running chats
+- Reasoning about token budgets, latency, and cost at system level
+
+---
+
+## 🛠️ Tools & Stack
+
+**Languages**
+- Go, Python, TypeScript, Java
+
+**Backend**
+- net/http, FastAPI, Spring Boot
+- PostgreSQL, MongoDB
+- Docker, Cloud Run
+
+**ML / AI**
+- PyTorch
+- Vector embeddings & search
+- Transformer-based models
+- Agent-style workflows (LangGraph-like)
+
+---
+
+## 🚀 Selected Work
+
+### Rate Limiting Systems (Go)
+- Implemented Token Bucket, Leaky Bucket, Sliding Window Log & Counter
+- Focus on concurrency safety, lazy time computation, and load behavior
+- Stress-tested and documented trade-offs (fairness, precision, latency)
+
+### Autonomous API Feature Integrator
+- Fetches API docs → extracts schemas → generates code and tests
+- Executes, detects failures, and applies self-healing patches
+- Outputs a usable SDK / feature module
+
+### LLM Chat Backend
+- Token-aware async summarization
+- Persistent memory with recovery after restart
+- Strict separation of prompts, tools, and execution paths
+- Designed for long-running conversations
+
+*(Everything listed here is something I can reason about line-by-line.)*
+
+---
+
+## 📊 Activity
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dibyo10&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dibyo10&theme=tokyonight&hide_border=true" height="150"/>
-</div>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dibyo10&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</div>
+---
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dibyo10&theme=tokyo-night&hide_border=true&height=300" alt="Contribution Graph"/>
-</div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
-## 🐍 Contribution Snake
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dibyo10/Dibyo10/blob/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Dibyo10/Dibyo10/blob/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://github.com/Dibyo10/Dibyo10/blob/output/github-contribution-grid-snake.svg"/>
-  </picture>
-</div>
-
-<div align="center">
-  <h3>👀 Thanks for stopping by! Happy Coding! 🚀</h3>
-</div>
+📫 **Links**  
+- GitHub: https://github.com/Dibyo10  
+- LinkedIn: https://www.linkedin.com/in/dibyo-chakraborty-2a7309317/
