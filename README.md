@@ -31,9 +31,11 @@ I care about correctness, trade-offs, and knowing *why* something works.
     <td>
       <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/gin.svg" width="55"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="55"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="55"/>
+      <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/expressjs-light.svg" width="55"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="55"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="55"/>
+      <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/flask-light.svg" width="55"/>
+      <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/nestjs.svg" width="55"/>
      </td>
   </tr>
 
