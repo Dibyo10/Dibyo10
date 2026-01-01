@@ -68,9 +68,11 @@ I care about correctness, trade-offs, and knowing *why* something works.
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="55"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="55"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="55"/>
+      <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/aws.svg" width="55"/>
+      <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/vercel-light.svg" width="55"/>
+      <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/netlify.svg" width="55"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="55"/>
+      <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/supabase.svg" width="55"/>
     </td>
   </tr>
 
