@@ -37,6 +37,7 @@ I care about correctness, trade-offs, and knowing *why* something works.
       <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/flask-light.svg" width="55"/>
       <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/nestjs.svg" width="55"/>
       <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/zod.svg" width="55"/>
+      <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/firebase.svg" width="55"/>
      </td>
   </tr>
 
@@ -63,7 +64,6 @@ I care about correctness, trade-offs, and knowing *why* something works.
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="55"/>
       <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/Pinecone_Logo_0.svg" width="170"/>
       <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/Qdrant.svg" width="170"/>
-      <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/firebase.svg" width="55"/>
     </td>
   </tr>
 
