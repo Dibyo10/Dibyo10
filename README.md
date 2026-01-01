@@ -121,7 +121,7 @@ I care about correctness, trade-offs, and knowing *why* something works.
       <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/colab-color.svg" width="55"/>
       <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/claude-color.svg" width="55"/>
       <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/lovable-color.svg" width="55"/>
-      <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/githubcopilot.svg" width="55"/>
+      <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/github-copilot-white.svg" width="55"/>
     </td>
   </tr>
 
