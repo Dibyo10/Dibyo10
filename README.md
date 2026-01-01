@@ -5,9 +5,16 @@
 </p>
 
 
-I enjoy building and understanding software systems — from backend infrastructure and machine learning foundations to modern LLM-based applications.
+I enjoy building and understanding software systems.. not just getting them to work, but understanding how they behave under real constraints like scale, latency, failure, and imperfect data.
 
-I care about correctness, trade-offs, and knowing *why* something works.
+I’m especially drawn to areas where **engineering meets reasoning**:
+- backend systems that must remain correct and observable over time  
+- machine learning models that are grounded in mathematics, not just APIs  
+- LLM-based applications that need guardrails, structure, and reliability  
+
+I like working close to fundamentals..whether that’s concurrency primitives, optimization methods, or the mechanics behind modern ML models. When I use abstractions, I prefer knowing exactly what they hide and what they don’t.
+
+Curiosity, consistency, and clarity guide most of what I build.
 
 ---
 ## 🖥️ Tech Stack
