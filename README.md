@@ -85,11 +85,12 @@ I care about correctness, trade-offs, and knowing *why* something works.
     <th align="left">📊 Data Science & ML</th>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="55"/>
-      <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="100"/>
+      <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="89"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="55"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55"/>
-       <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/matplotlib-1.svg" width="55"/>
+      <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/matplotlib-1.svg" width="55"/>
+      <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/seaborn-1.svg" width="155"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="55"/>
       </td>
   </tr>
