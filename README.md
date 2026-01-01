@@ -1,80 +1,114 @@
 # Dibyo Chakraborty
 
 > Systems • Machine Learning • Backend  
-> First-principles engineering. Real systems. Minimal abstractions.
+> Building software from first principles under real constraints.
 
 ---
 
 ## 👋 About Me
 
-I’m **Dibyo**, a Computer Science undergrad focused on understanding **how systems behave under real constraints** — time, scale, failure, and correctness.
+I’m Dibyo, a Computer Science undergrad focused on **how systems actually behave** — under load, over time, and when things fail.
 
-I’m most interested in problems where:
-- trade-offs actually matter
-- systems must remain debuggable over time
-- correctness is more important than speed of iteration
+I gravitate toward problems where:
+- trade-offs are unavoidable
+- correctness matters more than speed
+- systems must remain debuggable months later
 
-My work sits at the intersection of:
-- machine learning (classical + modern)
-- backend and concurrent systems
-- LLM pipelines built with guardrails, not guesswork
-
-I treat AI tools as accelerators — not decision-makers.
+My work spans **backend systems**, **machine learning (classical + modern)**, and **LLM infrastructure**, with a strong emphasis on reasoning from fundamentals rather than copying patterns.
 
 ---
 
-## 🧠 Areas of Strength
+## 🧠 Core Focus Areas
 
 ### Backend & Systems
-- Implemented **rate limiting algorithms** (Token Bucket, Leaky Bucket, Sliding Window) from scratch in Go
-- Built **concurrency-safe systems** using goroutines, mutexes, and worker pools
-- Designed time-based algorithms with lazy evaluation and clear invariants
-- REST APIs with strict validation, authentication, middleware, and clean routing
-- Practical understanding of failure modes, load behavior, and observability
+- Concurrency-safe services using goroutines, mutexes, worker pools
+- Time-based algorithms with lazy evaluation and strict invariants
+- REST APIs with validation, authentication, middleware, and clean routing
+- Rate limiting systems (Token Bucket, Leaky Bucket, Sliding Window)
+- Failure analysis and load behavior reasoning
 
 ### Machine Learning (Classical + Foundations)
-- Linear algebra: eigenvalues/eigenvectors, SVD, PCA, Rayleigh quotient
-- Optimization: Gradient Descent, SGD, Momentum, Adam
-- Probabilistic models: Gaussian Mixture Models, Bayesian scoring
+- Linear algebra: PCA, eigenvectors, SVD, Rayleigh quotient
+- Optimization: GD, SGD, Momentum, Adam
+- Probabilistic models: GMMs, Bayesian scoring
 - Recommender systems:
   - content-based filtering
   - collaborative filtering
   - matrix factorization
-  - time-decay and trend-aware ranking
-- Dimensionality reduction:
-  - PCA (theory + implementation)
-  - t-SNE vs UMAP (trade-offs and scaling behavior)
+  - time-decay & momentum-based ranking
+- Dimensionality reduction: PCA, t-SNE, UMAP (theory + trade-offs)
 
-### Sequence Models & Deep Learning
-- Vanilla RNNs and **Backpropagation Through Time** from first principles
-- Clear understanding of vanishing/exploding gradients
-- Orthogonal initialization: benefits and limits
-- Able to map math directly to PyTorch implementations
+### Deep Learning & Sequence Models
+- Vanilla RNNs and Backpropagation Through Time (from scratch)
+- Understanding vanishing/exploding gradients and initialization limits
+- Mapping mathematical formulations directly to PyTorch code
+- Familiar with LSTM / GRU concepts and usage
 
 ### LLM Systems & Applied AI
-- RAG pipelines with retrieval, reranking, and context control
+- Retrieval-Augmented Generation (RAG) pipelines
+- Embeddings, indexing, and vector search
+- Tool-calling and agent control flow
 - SQL generation with schema validation and repair loops
-- Deterministic compute pipelines (LLM → code → sandbox → verified output)
-- Async summarization and memory compaction for long-running chats
-- Reasoning about token budgets, latency, and cost at system level
+- Deterministic pipelines (LLM → code → sandbox → verified output)
+- Token budgeting, latency, and memory compaction strategies
 
 ---
 
-## 🛠️ Tools & Stack
+## 🛠️ Tech Stack
 
-**Languages**
-- Go, Python, TypeScript, Java
+### Languages
+- Go
+- Python
+- Java
+- JavaScript / TypeScript
+- SQL (PostgreSQL)
 
-**Backend**
-- net/http, FastAPI, Spring Boot
-- PostgreSQL, MongoDB
-- Docker, Cloud Run
+### Backend & Frameworks
+- net/http (Go)
+- Gin
+- FastAPI
+- Express
+- Spring Boot
+- REST API design
 
-**ML / AI**
+### Frontend
+- HTML5 / CSS3
+- React
+- Next.js
+- Redux
+- Tailwind CSS
+- Vite
+
+### Databases & Storage
+- PostgreSQL
+- MongoDB
+- MySQL
+- SQLite
+- Redis
+- Vector databases (Pinecone, Qdrant, FAISS)
+
+### Cloud & DevOps
+- Docker
+- Google Cloud Platform
+- Vercel
+- Netlify
+- NGINX
+- CI/CD pipelines
+
+### Data Science & ML Tools
+- NumPy
+- Pandas
+- scikit-learn
 - PyTorch
-- Vector embeddings & search
-- Transformer-based models
-- Agent-style workflows (LangGraph-like)
+- Hugging Face Transformers
+- RoBERTa
+
+### Developer Tools
+- Git & GitHub
+- VS Code
+- IntelliJ IDEA
+- Postman
+- Figma
 
 ---
 
@@ -83,20 +117,20 @@ I treat AI tools as accelerators — not decision-makers.
 ### Rate Limiting Systems (Go)
 - Implemented Token Bucket, Leaky Bucket, Sliding Window Log & Counter
 - Focus on concurrency safety, lazy time computation, and load behavior
-- Stress-tested and documented trade-offs (fairness, precision, latency)
+- Documented fairness, precision, and latency trade-offs
 
 ### Autonomous API Feature Integrator
 - Fetches API docs → extracts schemas → generates code and tests
 - Executes, detects failures, and applies self-healing patches
-- Outputs a usable SDK / feature module
+- Outputs usable SDK-style modules
 
-### LLM Chat Backend
-- Token-aware async summarization
-- Persistent memory with recovery after restart
-- Strict separation of prompts, tools, and execution paths
+### Production-Style LLM Chat Backend
+- Async summarization to control token growth
+- Persistent memory with restart recovery
+- Clean separation of prompts, tools, and execution paths
 - Designed for long-running conversations
 
-*(Everything listed here is something I can reason about line-by-line.)*
+*(Everything listed here is something I can explain line-by-line.)*
 
 ---
 
@@ -109,6 +143,6 @@ I treat AI tools as accelerators — not decision-makers.
 
 ---
 
-📫 **Links**  
-- GitHub: https://github.com/Dibyo10  
+## 🔗 Links
+- GitHub: https://github.com/Dibyo10
 - LinkedIn: https://www.linkedin.com/in/dibyo-chakraborty-2a7309317/
