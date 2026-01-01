@@ -75,6 +75,7 @@ I care about correctness, trade-offs, and knowing *why* something works.
       <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/netlify.svg" width="55"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="55"/>
       <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/supabase.svg" width="55"/>
+      <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/railway.svg" width="55"/>
     </td>
   </tr>
 
