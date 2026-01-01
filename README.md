@@ -38,6 +38,7 @@ Curiosity, consistency, and clarity guide most of what I build.
     <td>
       <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/gin-logo.svg" width="55"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="55"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55"/>
       <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/expressjs-light.svg" width="55"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="55"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="55"/>
