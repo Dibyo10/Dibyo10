@@ -78,12 +78,7 @@ I care about correctness, trade-offs, and knowing *why* something works.
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="35"/>
       <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="35"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="35"/>
-      <code>PCA</code>
-      <code>t-SNE</code>
-      <code>UMAP</code>
-      <code>RNN / LSTM</code>
-      <code>Classical ML</code>
-    </td>
+      </td>
   </tr>
 
   <tr>
@@ -92,12 +87,8 @@ I care about correctness, trade-offs, and knowing *why* something works.
       <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/langchain.svg" width="35"/>
       <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/langgraph.svg" width="35"/>
       <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/pinecone.svg" width="35"/>
-      <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-with-title.png" width="55"/>
-      <code>Embeddings</code>
-      <code>RAG</code>
-      <code>Agents</code>
-      <code>Tool Calling</code>
-    </td>
+      <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/huggingface.svg" width="35"/>
+      </td>
   </tr>
 
   <tr>
