@@ -93,7 +93,7 @@ I care about correctness, trade-offs, and knowing *why* something works.
   <tr>
     <th align="left">🤖 LLMs & NLP</th>
     <td>
-      <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/langchain_1.svg" width="55"/>
+      <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/langchain (3).svg" width="55"/>
       <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/langgraph-seeklogo-2.svg" width="175"/>
       <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/Pinecone_Logo_0.svg" width="170"/>
       <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/hugging-face.svg" width="55"/>
@@ -108,11 +108,15 @@ I care about correctness, trade-offs, and knowing *why* something works.
     <th align="left">🛠️ Tools & IDEs</th>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/>
+      <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/github.svg" width="55"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="55"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="55"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="55"/>
+      <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/colab-color.svg" width="55"/>
+      <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/claude-color.svg" width="55"/>
+      <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/lovable-color.svg" width="55"/>
+      <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/githubcopilot.svg" width="55"/>
     </td>
   </tr>
 
