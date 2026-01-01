@@ -36,6 +36,7 @@ I care about correctness, trade-offs, and knowing *why* something works.
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="55"/>
       <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/flask-light.svg" width="55"/>
       <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/nestjs.svg" width="55"/>
+      <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/zod.svg" width="55"/>
      </td>
   </tr>
 
@@ -60,6 +61,7 @@ I care about correctness, trade-offs, and knowing *why* something works.
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="55"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="55"/>
+      <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/firebase.svg" width="55"/>
     </td>
   </tr>
 
@@ -94,7 +96,9 @@ I care about correctness, trade-offs, and knowing *why* something works.
       <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/langchain (2).svg" width="55"/>
       <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/langgraph.svg" width="55"/>
       <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/pinecone.svg" width="55"/>
-      <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/huggingface.svg" width="55"/>
+      <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/hugging-face.svg" width="55"/>
+      <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/anthropic-basic-light.svg" width="55"/>
+      <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/deepseek.svg" width="55"/>
       </td>
   </tr>
 
