@@ -135,10 +135,17 @@ Curiosity, consistency, and clarity guide most of what I build.
 </table>
 
 
+---
 
- 
+## 📄 More About My Work
+
+If you’d like a more structured view of my background and projects:
+
+- **Resume:** [View PDF](https://drive.google.com/file/d/1miDmjV6DuwGqPEb-J0bT3d57-oyc_dRl/view)
+- **Portfolio:** [dibyoc-portfolio.vercel.app](https://dibyoc-portfolio.vercel.app)
 
 ---
+
 
 ## 🌐 Connect with Me
 
