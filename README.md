@@ -93,8 +93,8 @@ I care about correctness, trade-offs, and knowing *why* something works.
   <tr>
     <th align="left">🤖 LLMs & NLP</th>
     <td>
-      <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/langchain (2).svg" width="55"/>
-      <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/langgraph.svg" width="55"/>
+      <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/langchain_1.svg" width="55"/>
+      <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/langgraph-seeklogo-2.svg" width="55"/>
       <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/Pinecone_Logo_0.svg" width="170"/>
       <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/hugging-face.svg" width="55"/>
       <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/anthropic-basic-light.svg" width="55"/>
