@@ -131,22 +131,6 @@ I care about correctness, trade-offs, and knowing *why* something works.
  
 
 ---
-## 📈 GitHub Stats & Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dibyo10&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=Dibyo10&theme=tokyonight&hide_border=true" height="150"/>
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dibyo10&theme=tokyo-night&hide_border=true&height=300"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dibyo10&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-  <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Dibyo10&theme=nord&column=7&margin-w=10&margin-h=10&no-frame=true"/>
-</div>
-
-
-
----
 
 ## 🌐 Connect with Me
 
