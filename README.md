@@ -78,6 +78,9 @@ I care about correctness, trade-offs, and knowing *why* something works.
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="55"/>
       <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="55"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="55"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="55"/>
       </td>
   </tr>
 
@@ -119,3 +122,5 @@ I care about correctness, trade-offs, and knowing *why* something works.
   <a href="https://leetcode.com/u/dibyo_chakraborty/"><img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
   <a href="https://www.instagram.com/dibyo._.chakraborty/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
+
+```
