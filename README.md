@@ -100,6 +100,7 @@ I care about correctness, trade-offs, and knowing *why* something works.
       <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/anthropic-basic-light.svg" width="55"/>
       <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/deepseek.svg" width="55"/>
       <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/openai-svgrepo-com.svg" width="55"/>
+      <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/gemini-color.svg" width="55"/>
       </td>
   </tr>
 
