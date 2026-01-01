@@ -123,4 +123,3 @@ I care about correctness, trade-offs, and knowing *why* something works.
   <a href="https://www.instagram.com/dibyo._.chakraborty/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
-```
