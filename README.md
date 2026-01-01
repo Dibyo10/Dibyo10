@@ -89,9 +89,9 @@ I care about correctness, trade-offs, and knowing *why* something works.
   <tr>
     <th align="left">🤖 LLMs & NLP</th>
     <td>
-      <img src="https://avatars.githubusercontent.com/u/15821466?s=200&v=4" width="35"/>
-      <img src="https://avatars.githubusercontent.com/u/104809093?s=200&v=4" width="35"/>
-      <img src="https://avatars.githubusercontent.com/u/78005412?s=200&v=4" width="35"/>
+      <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/langchain.svg" width="35"/>
+      <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/langgraph.svg" width="35"/>
+      <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/pinecone.svg" width="35"/>
       <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-with-title.png" width="55"/>
       <code>Embeddings</code>
       <code>RAG</code>
