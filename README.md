@@ -113,7 +113,7 @@ I care about correctness, trade-offs, and knowing *why* something works.
     <th align="left">🛠️ Tools & IDEs</th>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/>
-      <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/github.svg" width="55"/>
+      <img src="https://raw.githubusercontent.com/Dibyo10/Dibyo10/main/github-mark-white.svg" width="55"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="55"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="55"/>
