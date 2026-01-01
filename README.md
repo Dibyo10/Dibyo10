@@ -1,5 +1,10 @@
 # 👋 Hey, I’m Dibyo
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Developer sipping coffee and coding" />
+</p>
+
+
 I enjoy building and understanding software systems — from backend infrastructure and machine learning foundations to modern LLM-based applications.
 
 I care about correctness, trade-offs, and knowing *why* something works.
