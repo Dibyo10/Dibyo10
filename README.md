@@ -139,6 +139,10 @@ Curiosity, consistency, and clarity guide most of what I build.
 
 
 ---
+## GitHub Stats (I don't know why this is used but okay)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dibyo10&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![Dibyo's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dibyo10&theme=dark-dimmed&area=true&hide_border=true)
+---
 
 ## 📄 More About My Work
 
@@ -148,10 +152,6 @@ If you’d like a more structured view of my background and projects:
 - **Portfolio:** [dibyoc-portfolio.vercel.app](https://dibyoc-portfolio.vercel.app)
 
 ---
-
-
-
-
 
 ## 🌐 Connect with Me
 
